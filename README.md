@@ -1,1 +1,3 @@
 # DockerShopware
+
+#Added docker file
